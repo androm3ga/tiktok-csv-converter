@@ -269,7 +269,7 @@ def _highlight(val):
 
 
 if "SLA Durumu" in display_df.columns:
-    styled = display_df.style.applymap(_highlight, subset=["SLA Durumu"])
+    styled = display_df.style.map(_highlight, subset=["SLA Durumu"])
     st.dataframe(styled, use_container_width=True, height=420, hide_index=True)
 else:
     st.dataframe(display_df, use_container_width=True, height=420, hide_index=True)
