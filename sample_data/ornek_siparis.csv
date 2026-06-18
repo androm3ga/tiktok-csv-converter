@@ -1,0 +1,11 @@
+Order ID,Order Status,Buyer Username,Product Name,SKU ID,Quantity,Buyer Paid,Payment Time,Ship By Date,Shipped Time,Tracking Number,Shipping Provider Name
+TT-20240310-001,Shipped,kullanici_1,Kablosuz Kulaklık - Siyah,SKU-001,1,299.90,2024-03-10 09:15:00,2024-03-12 23:59:59,2024-03-11 10:30:00,YK123456789TR,Yurtiçi Kargo
+TT-20240310-002,Awaiting Shipment,kullanici_2,Telefon Kılıfı - iPhone 15,SKU-002,2,89.90,2024-03-10 14:00:00,2024-03-12 23:59:59,,,
+TT-20240309-003,Shipped,kullanici_3,Şarj Kablosu Type-C,SKU-003,3,45.00,2024-03-09 11:20:00,2024-03-11 23:59:59,2024-03-13 09:00:00,MNG987654321,MNG Kargo
+TT-20240308-004,Cancelled,kullanici_4,Bluetooth Hoparlör,SKU-004,1,459.00,2024-03-08 16:45:00,2024-03-10 23:59:59,,,
+TT-20240310-005,Shipped,kullanici_5,Ekran Koruyucu - Samsung,SKU-005,2,59.90,2024-03-10 08:00:00,2024-03-12 23:59:59,2024-03-12 11:00:00,PTT112233445,PTT Kargo
+TT-20240311-006,Awaiting Shipment,kullanici_6,Tablet Kılıfı - iPad,SKU-006,1,199.00,2024-03-11 10:00:00,2024-03-13 23:59:59,,,
+TT-20240311-007,Shipped,kullanici_7,Akıllı Saat Kordonu,SKU-007,1,79.90,2024-03-11 13:30:00,2024-03-13 23:59:59,2024-03-13 14:00:00,ARS556677889,Aras Kargo
+TT-20240309-008,Shipped,kullanici_8,Kablosuz Mouse,SKU-008,1,349.00,2024-03-09 09:00:00,2024-03-11 23:59:59,2024-03-12 16:00:00,YK998877665TR,Yurtiçi Kargo
+TT-20240312-009,Awaiting Shipment,kullanici_9,Mekanik Klavye,SKU-009,1,899.00,2024-03-12 11:00:00,2024-03-14 23:59:59,,,
+TT-20240307-010,Cancelled,kullanici_10,USB Hub 4 Port,SKU-010,2,129.00,2024-03-07 15:00:00,2024-03-09 23:59:59,,,
